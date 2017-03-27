@@ -1,2 +1,4 @@
 # ChangeMaker
-ChangeMaker 186
+ChangeMaker class 186
+Author: KJ Wilson
+
